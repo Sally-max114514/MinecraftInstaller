@@ -5,6 +5,8 @@
 
 📦 GitHub 仓库:<https://github.com/Sally-max114514/MinecraftInstaller>
 
+当前版本:**2.0**
+
 ---
 
 ## 项目简介
