@@ -3,6 +3,8 @@
 > 一个帮助同学们快速安装 Java 和 Minecraft(HMCL 启动器)的小工具。
 > 作者:**weijianyu**
 
+📦 GitHub 仓库:<https://github.com/Sally-max114514/MinecraftInstaller>
+
 ---
 
 ## 项目简介
