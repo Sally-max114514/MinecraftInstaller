@@ -2,7 +2,7 @@
 生成 Minecraft 安装器的 exe 图标 icon.ico
 样式: 深蓝圆角外框 + 像素化草地绿方块 + 白色下箭头
 运行: python3 make_icon.py
-作者: weijianyu
+作者: Sally-max114514
 """
 
 import random

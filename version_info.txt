@@ -1,4 +1,4 @@
-# PyInstaller Windows 版本信息文件(写入 exe 属性: 作者 weijianyu)
+# PyInstaller Windows 版本信息文件(写入 exe 属性: 作者 Sally-max114514)
 # 注意: 本文件保持纯 ASCII,避免 Windows 打包时出现编码问题。
 VSVersionInfo(
   ffi=FixedFileInfo(
@@ -15,11 +15,11 @@ VSVersionInfo(
     StringFileInfo([
       StringTable(
         u'040904B0',
-        [StringStruct(u'CompanyName', u'weijianyu'),
-         StringStruct(u'FileDescription', u'Minecraft Installer 2.0 by weijianyu'),
+        [StringStruct(u'CompanyName', u'Sally-max114514'),
+         StringStruct(u'FileDescription', u'Minecraft Installer 2.0 by Sally-max114514'),
          StringStruct(u'FileVersion', u'2.0.0.0'),
          StringStruct(u'InternalName', u'MinecraftInstaller2.0'),
-         StringStruct(u'LegalCopyright', u'Copyright (c) 2026 weijianyu'),
+         StringStruct(u'LegalCopyright', u'Copyright (c) 2026 Sally-max114514'),
          StringStruct(u'OriginalFilename', u'MinecraftInstaller2.0.exe'),
          StringStruct(u'ProductName', u'Minecraft Installer 2.0'),
          StringStruct(u'ProductVersion', u'2.0.0.0')])

@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  一键把本项目托管到 GitHub
-#  作者: weijianyu
+#  作者: Sally-max114514
 #
 #  使用方法: 在终端里执行  bash 上传到GitHub.sh
 #  1. 首次运行会提示登录:浏览器打开 github.com/login/device
@@ -24,7 +24,7 @@ echo "      登录成功!"
 
 echo "[2/3] 创建远程仓库 MinecraftInstaller 并推送 ..."
 $GH repo create MinecraftInstaller --public --source=. --remote=origin --push \
-    --description "Minecraft 安装器:图形化一键安装 Java 与 HMCL 启动器(作者 weijianyu)"
+    --description "Minecraft 安装器:图形化一键安装 Java 与 HMCL 启动器(作者 Sally-max114514)"
 
 echo "[3/3] 完成!"
 echo "      仓库地址已在上方输出,也可以运行: $GH repo view --web"

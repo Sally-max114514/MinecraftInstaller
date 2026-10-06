@@ -1,11 +1,11 @@
 @echo off
 chcp 65001 >nul
-title Minecraft 安装器 2.0 打包工具 - 作者 weijianyu
+title Minecraft 安装器 2.0 打包工具 - 作者 Sally-max114514
 cd /d "%~dp0"
 
 echo ==================================================
 echo   Minecraft 安装器 2.0 - Windows EXE 打包工具
-echo   作者: weijianyu
+echo   作者: Sally-max114514
 echo ==================================================
 echo.
 
@@ -43,7 +43,7 @@ if errorlevel 1 (
 echo.
 echo [3/3] 打包完成!
 echo 生成文件: %CD%\dist\MinecraftInstaller2.0.exe
-echo 作者: weijianyu
+echo 作者: Sally-max114514
 echo.
 echo 右键 exe - 属性 - 详细信息,可以查看作者与版本信息。
 echo.

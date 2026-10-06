@@ -1,7 +1,7 @@
 # Minecraft 安装器
 
 > 一个帮助同学们快速安装 Java 和 Minecraft(HMCL 启动器)的小工具。
-> 作者:**weijianyu**
+> 作者:**Sally-max114514**
 
 📦 GitHub 仓库:<https://github.com/Sally-max114514/MinecraftInstaller>
 
@@ -55,7 +55,7 @@ Minecraft安装/
 把 `MinecraftInstaller2.0.exe` 拷到任意 64 位 Windows 电脑,
 **双击运行**即可,无需安装 Python。
 
-> 右键 exe → 属性 → 详细信息,可以看到作者署名 weijianyu。
+> 右键 exe → 属性 → 详细信息,可以看到作者署名 Sally-max114514。
 
 ### 方式二:用 Python 运行源码
 
@@ -104,4 +104,4 @@ python3 MinecraftInstaller2.0.py
 
 ---
 
-📝 作者:weijianyu | 项目初衷:让身边的同学都能轻松装上 Minecraft
+📝 作者:Sally-max114514 | 项目初衷:让身边的同学都能轻松装上 Minecraft

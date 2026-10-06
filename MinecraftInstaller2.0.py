@@ -9,7 +9,7 @@ MinecraftInstaller 2.0
 3. 图形化界面: 基于 Tkinter 的状态面板 + 一键安装 + 实时日志与下载进度条,
    下载安装全程不卡界面。
 
-作者: weijianyu
+作者: Sally-max114514
 
 运行前请确保已安装 Tkinter:
   Debian/Ubuntu: sudo apt install python3-tk
@@ -224,7 +224,7 @@ class MinecraftInstallerApp:
         title = ttk.Label(self.root, text="Minecraft 安装器 2.0",
                           font=("", 16, "bold"))
         title.pack(padx=10, pady=(6, 0))
-        author = ttk.Label(self.root, text="作者: weijianyu", foreground="gray")
+        author = ttk.Label(self.root, text="作者: Sally-max114514", foreground="gray")
         author.pack(pady=(0, 6))
 
         # 运行状态
